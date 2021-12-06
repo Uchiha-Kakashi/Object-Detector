@@ -1,0 +1,3 @@
+The folder will contain custom weights for the custom trained YOLOv3 model
+You can train your own YOLOv3 model and save the weights. 
+Please update the path to these files in the subsequent python files 
