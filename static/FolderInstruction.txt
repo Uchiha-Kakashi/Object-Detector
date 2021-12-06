@@ -1,0 +1,4 @@
+The folder will be used to save the image files into
+Will contain subdirectory Images and will have two folders namely "Uploaded" and "Predicted"
+
+On prediction, the image files will be saved in the subsequent folders
